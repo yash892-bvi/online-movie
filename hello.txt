@@ -1,5 +1,1 @@
-hello
-fbkfknkn
-fnnkfnkng
-ngkfhjh
-nfkngnknfng
+Hello this is my first program.
